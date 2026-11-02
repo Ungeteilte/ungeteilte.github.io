@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ungeteilte.dassystem",
+      "sha256_cert_fingerprints": ["23:8A:C0:32:82:98:A0:0E:96:34:F1:DD:F1:99:6B:F6:0E:2B:BE:23:F8:46:67:A9:42:B9:4B:11:79:2B:1B:23"]
+    }
+  }
+]
